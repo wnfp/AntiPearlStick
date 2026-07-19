@@ -1,0 +1,16 @@
+# Item used for the stick (PM5 ID, e.g. minecraft:blaze_rod or minecraft:stick)
+stick_item: "minecraft:blaze_rod"
+
+# Anti-pearl cooldown in seconds (for the victim)
+cooldown_seconds: 15
+
+# Stick use cooldown in seconds (for the attacker)
+stick_cooldown_seconds: 120
+
+# Messages
+messages:
+  attacker: "§a- You have blocked {player}'s pearls for {time} seconds §a-"
+  attacker_cooldown: "§c- Your stick is on cooldown! Wait {time} seconds §c-"
+  victim_hit: "§c- You have been hit by an anti-pearl stick §c-"
+  victim_try: "§c- You cannot use your pearls for {time} seconds §c-"
+  victim_end: "§a- You can now use your pearls again §a-"

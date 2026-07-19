@@ -1,0 +1,5 @@
+name: AntiPearlStick
+version: 1.0.0
+main: AntiPearlStick\Main
+api: [5.0.0]
+author: YodnDEV
